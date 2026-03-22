@@ -1,12 +1,6 @@
 # 🌙 Hi, I'm Zeph!
 Welcome to my GitHub profile; thank you for checking it out!
 
----
-
-Proof of ownership of the GitHub account -- requesting to get the account delisted from the Internet Archive.
-
----
-
 ## 💫 About Me
 Here is a summary of who I am and what I can do:
 
