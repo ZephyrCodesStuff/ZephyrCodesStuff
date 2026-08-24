@@ -56,18 +56,20 @@ Complete list of every repository that I've created and maintained for my PlaySt
 | **06** | [`psh-docs`](https://psh-docs.vercel.app) | Website | `TypeScript (NextJS)` | Complete, unbiased source of truth regarding every technical aspect of PlayStation Home. |
 | **07** | `blahaj` | Monorepo | `Rust` | The predecessor of `hdk-rs`. |
 | **08** | `blahaj-core` | Library | `Rust` | Core library powering `blahaj`; what then turned into `hdk-rs`. |
+| **09** | `tss-rs` | API | `Rust` | API server for PlayStation Home. Handles the initial login flow. |
+| **10** | `ssfw-rs` | API | `Rust` | API server for PlayStation Home. Handles player authentication and accounts. |
 
 ### Repos under the Destination Home org
 
 | # | Repository | Type | Language | Description |
 | :-: | :--- | :--- | :--- | :--- |
-| **09** | [`game-ohs`](https://github.com/DestinationHome/game-ohs) | API | `Rust (Actix)` | API server for PlayStation Home. |
-| **10** | [`game-xi`](https://github.com/DestinationHome/game-xi) | API | `Rust (Actix)` | API server for PlayStation Home. |
-| **11** | [`game-veemee`](https://github.com/DestinationHome/game-veemee) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
-| **12** | [`game-juggernaut`](https://github.com/DestinationHome/game-juggernaut) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
-| **13** | [`game-heavywater`](https://github.com/DestinationHome/game-heavywater) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
-| **14** | `game-http-cdn` | API | `TypeScript (Hono)` | API server for PlayStation Home, handling various minor minigames in one service. |
-| **15** | [`infra-catalogue-api`](https://github.com/DestinationHome/infra-catalogue-api) | API | `TypeScript (Hono)` | API server for Destination Home, powering the website's Object Catalogue. |
-| **16** | [`website`](https://destinationhome.online/) | Website | `TypeScript (NextJS)` | Destination Home's official website. |
-| **17** | `player` | CLI | `Rust` | Complete test-suite to make sure Destination Home's services are online. Checks everything, all the way from the DNS to joining the game. |
-| **18** | `capone-service` | API | `ModuleJS` | API server accepting player reports ("grief reports"). |
+| **11** | [`game-ohs`](https://github.com/DestinationHome/game-ohs) | API | `Rust (Actix)` | API server for PlayStation Home. |
+| **12** | [`game-xi`](https://github.com/DestinationHome/game-xi) | API | `Rust (Actix)` | API server for PlayStation Home. |
+| **13** | [`game-veemee`](https://github.com/DestinationHome/game-veemee) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
+| **14** | [`game-juggernaut`](https://github.com/DestinationHome/game-juggernaut) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
+| **15** | [`game-heavywater`](https://github.com/DestinationHome/game-heavywater) | API | `TypeScript (Hono)` | API server for PlayStation Home. |
+| **16** | `game-http-cdn` | API | `TypeScript (Hono)` | API server for PlayStation Home, handling various minor minigames in one service. |
+| **17** | [`infra-catalogue-api`](https://github.com/DestinationHome/infra-catalogue-api) | API | `TypeScript (Hono)` | API server for Destination Home, powering the website's Object Catalogue. |
+| **18** | [`website`](https://destinationhome.online/) | Website | `TypeScript (NextJS)` | Destination Home's official website. |
+| **19** | `player` | CLI | `Rust` | Complete test-suite to make sure Destination Home's services are online. Checks everything, all the way from the DNS to joining the game. |
+| **20** | `capone-service` | API | `ModuleJS` | API server accepting player reports ("grief reports"). |
