@@ -47,7 +47,7 @@ Complete list of every repository that I've created and maintained for my PlaySt
 
 | # | Repository | Type | Language | Description |
 | :-: | :--- | :--- | :--- | :--- |
-| **01** | [`hdk-rs`](https://github.com/ZephyrCodesStuff/hdk-rs) | Library | `Rust` | Blazing-fast SHARC archive unpacker, repacker & crypto suite. |
+| **01** | [`hdk-rs`](https://github.com/ZephyrCodesStuff/hdk-rs) | Library | `Rust` | Blazing-fast Sony/Home archive unpacker, repacker & crypto suite. Everything to develop for Home. |
 | **02** | [`hdk-cli`](https://github.com/ZephyrCodesStuff/hdk-cli) | CLI | `Rust` | Cross-platform CLI binary for the `hdk-rs` toolchain, with MCP support. |
 | **03** | [`mallory-rs`](https://github.com/ZephyrCodesStuff/mallory-rs) | CLI | `Rust` | Simple development reverse proxy with automatic TLS support; made for PlayStation Home development. |
 | **04** | `kitsune` | Gateway | `Rust` | TCP/UDP real-time event gateway (RT / Medius implementation) for PlayStation Home. |
