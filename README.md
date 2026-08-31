@@ -27,7 +27,7 @@ Databases      ::  MongoDB, SQLite, Redis
 | Project | Domain | Description |
 | :--- | :--- | :--- |
 | [**Destination Home**](https://destinationhome.online/) | **Media Preservation** | Open-source preservation project (16,000+ members) for Sony's defunct *PlayStation Home* on PS3. Reverse-engineered game binaries, built custom API servers, and managed infrastructure. |
-| [**hello-cell**](https://github.com/ZephyrCodesStuff/hello-cell) | **Bare-Metal Firmware** | Proof-of-Concept project to run modern Rust & LLVM on the Sony PS3 Cell CPU's PPU processors. Runs fully under GameOS and LV2, without any OtherOS or Linux hypervisors needed. |
+| [**rust-ps3**](https://github.com/ZephyrCodesStuff/hello-cell) | **Hardware SDK** | Rust toolchain to run modern Rust & LLVM on the Sony PS3 Cell CPU's PPU processors. Runs fully under GameOS and LV2, without any OtherOS or Linux hypervisors needed. |
 | [**rf64**](https://github.com/ZephyrCodesStuff/rf64) | **Bare-Metal Firmware** | Hyper-optimized bare-metal firmware for the MIDI Fighter 64 music controller. Runs on an ATmega32U4 chip with 28 KB flash and 2.5 KB SRAM. |
 | [**Halo / rtaudio**](https://halowave.app) | **macOS / DSP** | Real-time audio waveform app for macOS using <1% CPU for 120 FPS rendering via custom DSP chain and a Metal renderer ([source](https://github.com/ZephyrCodesStuff/rtaudio)). |
 | [**RPCS3 Sony Clans**](https://github.com/RPCS3/rpcs3/pull/17835) | **Emulation / PSN** | Full reverse-engineering and client + server reimplementation of the defunct Sony Clans PSN subsystem for PS3 and RPCS3. |
